@@ -1,6 +1,6 @@
 if (Meteor.isClient) {
   Template.hello.greeting = function () {
-    return "Welcome to fitNote.";
+    return "반갑습니다";
   };
 
   Template.hello.events({
